@@ -86,8 +86,8 @@ This activity depends on SendGrid’s API for sending emails. You will need a va
 
 ## License
 
-This library is licensed under [insert license type here].
+
 
 ## Support
 
-For any issues or feature requests, please reach out to the project maintainer at [insert contact details here].
+For any issues or feature requests, please reach out to the project maintainer at masteroflogic.mol@gmail.com.
